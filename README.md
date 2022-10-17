@@ -1,1 +1,3 @@
-# hactober
+# hactoberfest
+
+Added nginx.conf
